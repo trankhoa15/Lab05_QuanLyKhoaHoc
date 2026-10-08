@@ -1,0 +1,10 @@
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\bin\Debug\Lab05_QuanLySinhVien.exe.config
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\bin\Debug\Lab05_QuanLySinhVien.exe
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\bin\Debug\Lab05_QuanLySinhVien.pdb
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.Form1.resources
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.Properties.Resources.resources
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.exe
+C:\Users\MY COMPUTER\source\repos\Lab05_QuanLySinhVien\Lab05_QuanLySinhVien\obj\Debug\Lab05_QuanLySinhVien.pdb
